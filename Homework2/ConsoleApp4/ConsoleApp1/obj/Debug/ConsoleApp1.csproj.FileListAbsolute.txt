@@ -1,0 +1,5 @@
+C:\Users\Hallimede\source\repos\ConsoleApp4\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hallimede\source\repos\ConsoleApp4\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hallimede\source\repos\ConsoleApp4\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hallimede\source\repos\ConsoleApp4\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hallimede\source\repos\ConsoleApp4\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
