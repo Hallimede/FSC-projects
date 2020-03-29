@@ -1,0 +1,6 @@
+C:\Users\Hallimede\source\repos\Homework05\Homework05\bin\Debug\Homework05.exe.config
+C:\Users\Hallimede\source\repos\Homework05\Homework05\bin\Debug\Homework05.exe
+C:\Users\Hallimede\source\repos\Homework05\Homework05\bin\Debug\Homework05.pdb
+C:\Users\Hallimede\source\repos\Homework05\Homework05\obj\Debug\Homework05.csprojAssemblyReference.cache
+C:\Users\Hallimede\source\repos\Homework05\Homework05\obj\Debug\Homework05.exe
+C:\Users\Hallimede\source\repos\Homework05\Homework05\obj\Debug\Homework05.pdb
