@@ -1,0 +1,9 @@
+C:\Users\Hallimede\source\repos\Homework7\Homework7\bin\Debug\Homework7.exe.config
+C:\Users\Hallimede\source\repos\Homework7\Homework7\bin\Debug\Homework7.exe
+C:\Users\Hallimede\source\repos\Homework7\Homework7\bin\Debug\Homework7.pdb
+C:\Users\Hallimede\source\repos\Homework7\Homework7\obj\Debug\Homework7.csprojAssemblyReference.cache
+C:\Users\Hallimede\source\repos\Homework7\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+C:\Users\Hallimede\source\repos\Homework7\Homework7\obj\Debug\Homework7.csproj.GenerateResource.cache
+C:\Users\Hallimede\source\repos\Homework7\Homework7\obj\Debug\Homework7.exe
+C:\Users\Hallimede\source\repos\Homework7\Homework7\obj\Debug\Homework7.pdb
+C:\Users\Hallimede\source\repos\Homework7\Homework7\obj\Debug\Homework7.MainForm.resources
